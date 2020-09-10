@@ -1,2 +1,3 @@
-# softplan-avaliacao
-Avaliação Técnica UNIC - Softplan
+# Avaliação Técnica UNIC - Softplan
+* [Exercicio 1](gerador-observacao)
+* [Exercicio 2](custo-obra)
